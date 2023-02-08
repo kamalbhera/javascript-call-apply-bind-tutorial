@@ -1,0 +1,1 @@
+**Javascript Call bind apply tutorial to undarstanding how it's work and how we use it**
